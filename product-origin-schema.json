@@ -1,5 +1,5 @@
 {
-  "$id": "file:///Users/dayan/Documents/Work/November/jsoncreation/product-origin-schema.json",
+  "$id": "https://github.com/ShaikDayan/Shaik_rep/blob/master/product-origin-schema.json",
   "$schema": "https://json-schema.org/draft/2019-09/schema",
   "definitions": {
     "ProductOriginSchema": {
