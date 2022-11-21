@@ -1,5 +1,5 @@
 {
-    "$id": "https://github.com/ShaikDayan/Shaik_rep/blob/master/product-masterdata-schema-new.json",
+    "$id": "https://raw.githubusercontent.com/ShaikDayan/Shaik_rep/master/product-masterdata-schema-new.json",
     "$schema": "https://json-schema.org/draft/2019-09/schema",
     "definitions": {
       "ProductMasterdata": {
