@@ -253,7 +253,7 @@
       "@container": "@set"
     },
     "bizTransactionList": {
-      "@id": "epcis:bizTransactionList",
+      
       "@container": "@set",
       "@context": {
         "@protected": true,
@@ -275,7 +275,9 @@
             "testprd": "cbv:BTT-testprd",
             "testres": "cbv:BTT-testres",
             "upevt": "cbv:BTT-upevt"
-          },"@id": "epcis:bizTransactionType"
+          },
+          "@id": "epcis:bizTransactionList",
+          "@id": "epcis:bizTransactionType"
         }
       }
     },
