@@ -277,9 +277,9 @@
             "testres": "cbv:BTT-testres",
             "upevt": "cbv:BTT-upevt"
           }
+          "bizTransaction": "@id"
         }
-        "bizTransaction": "@id"
-      }
+       }
     },
     "parentID": {
       "@id": "epcis:parentID",
