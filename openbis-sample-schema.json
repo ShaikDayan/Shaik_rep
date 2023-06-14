@@ -5,12 +5,7 @@
       "Sample":{
          "type":"object",
          "properties":{
-            "type":{
-               "type":"string",
-               "enum":[
-                  "Sample"
-               ]
-            },
+           
             "code":{
                "type":"string"
             },
